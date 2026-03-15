@@ -1,6 +1,9 @@
 # Wireframe3D
 A little wireframe 3D renderer I made with [toolbox](https://github.com/gabry3glia/toolbox) and some math!
 
+## How to run
+The entry point is the `public static void main(String[] args)` in `Engine.java`.
+
 ## Features
 The renderer can draw a 3D wireframe mesh (vertices and edges) at a given position, with a given rotation and scale.\
 If a vertex is outside of the view frustum it gets clipped away.\
@@ -138,3 +141,4 @@ Here are some things I want to do for this project:
 - fix an annoying bug in the cone mesh generation function
 - rename the "cylinder" function "prism"
 - rename the "cone" function "pyramid"
+- add a run script `*.sh` script
