@@ -141,4 +141,5 @@ Here are some things I want to do for this project:
 - fix an annoying bug in the cone mesh generation function
 - rename the "cylinder" function "prism"
 - rename the "cone" function "pyramid"
+- add spheres as prefab shapes
 - add a run script `*.sh` script
