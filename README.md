@@ -143,3 +143,4 @@ Here are some things I want to do for this project:
 - rename the "cone" function "pyramid"
 - add spheres as prefab shapes
 - add a run script `*.sh` script
+- performance test
