@@ -145,3 +145,4 @@ Here are some things I want to do for this project:
 - add a run script `*.sh` script
 - performance test
 - use spaceal units of ~1000 current spaceal units
+- use matrices and quaternions (to solve Gimbal Lock) for making the program "smarter"/easier to read
