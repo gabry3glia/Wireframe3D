@@ -144,3 +144,4 @@ Here are some things I want to do for this project:
 - add spheres as prefab shapes
 - add a run script `*.sh` script
 - performance test
+- use spaceal units of ~1000 current spaceal units
